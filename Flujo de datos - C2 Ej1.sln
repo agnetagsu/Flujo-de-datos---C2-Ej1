@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flujo de datos - C2 Ej1", "Flujo de datos - C2 Ej1\Flujo de datos - C2 Ej1.csproj", "{E65D1F22-F410-4130-AEDF-0104513301ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E65D1F22-F410-4130-AEDF-0104513301ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65D1F22-F410-4130-AEDF-0104513301ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65D1F22-F410-4130-AEDF-0104513301ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65D1F22-F410-4130-AEDF-0104513301ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1536B8FD-603B-490F-B131-7F1E0CC6F70C}
+	EndGlobalSection
+EndGlobal
